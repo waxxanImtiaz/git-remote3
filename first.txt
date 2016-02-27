@@ -1,2 +1,3 @@
 first line by master
 
+second line in first.txt by left branch
