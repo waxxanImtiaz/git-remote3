@@ -1,1 +1,2 @@
 first line by newbranch
+second line by newbranch
