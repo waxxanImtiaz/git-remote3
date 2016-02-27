@@ -1,2 +1,2 @@
 first line by master
-line inserted by master
+
